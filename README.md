@@ -1,5 +1,3 @@
-Below is a well-structured and comprehensive `README.md` for your "caster-agent-ts" project, designed to be posted on GitHub. It provides an overview of the project, setup instructions, usage details, and other essential information to help users understand and utilize the agent effectively.
-
 ---
 
 # Caster Agent TS
