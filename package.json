@@ -1,0 +1,17 @@
+{
+  "name": "caster-agent-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@neynar/nodejs-sdk": "^1.71.0",
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "node-fetch": "^2.7.0",
+    "openai": "^4.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
