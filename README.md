@@ -36,7 +36,7 @@ Follow these steps to set up the project:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/caster-agent-ts.git
+   git clone https://github.com/casteragents/Caster-Agents-Framework-V3.git
    cd caster-agent-ts
    ```
 
